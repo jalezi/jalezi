@@ -34,10 +34,20 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
+---
+
 ### About me
 
 - 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="16" height="16"/>
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaka-daneu/)
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jalezi&theme=default)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalezi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jalezi/jalezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
